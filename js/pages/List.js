@@ -102,13 +102,19 @@ export default {
                     <p>
                        If you verify a level or want to request a level that was found in the recent tab, please dm me on discord "tramp1s".
                        The level must:
-                       -
-                       Must not be rated, rate-worthy, or created for the list.
-                       Must not be on any major Geometry Dash list.
-                       Must not be a copy of an already existing level, even if it's a buff, nerf, or segment, with some exceptions.
-                       If a level is impossible, you can request the level to be fixed, making the impossible input into a frame perfect.
-                       -
                     </p>
+                    <p>
+                       Must not be rated, rate-worthy, or created for the list
+                   </p>
+                    <p>
+                       Must not be on any major Geometry Dash list.
+                    </p>
+                    <p>
+                       Must not be a copy of an already existing level, even if it's a buff, nerf, or segment, with some exceptions.
+                    </p>
+                    <p>
+                       If a level is impossible, you can request the level to be fixed, making the impossible input into a frame perfect.
+                     </p>
                     <p>
                         Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
                     </p>
