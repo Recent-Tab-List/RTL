@@ -98,7 +98,7 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Submission Requirements</h3>
+                    <h3>Level Requests</h3>
                     <p>
                        If you verify a level or want to request a level that was found in the recent tab, please dm me on discord "tramp1s".
                        The level must:
@@ -114,8 +114,9 @@ export default {
                     </p>
                     <p>
                        If a level is impossible, you can request the level to be fixed, making the impossible input into a frame perfect.
-                     </p>
+                    </p>
                     <p>
+                    <h3>Submission Requirements</h3>
                         Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
                     </p>
                     <p>
