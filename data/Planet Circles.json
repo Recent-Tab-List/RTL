@@ -2,11 +2,18 @@
     "id": 126229565,
     "name": "Planet Circles",
     "author": "RengySpiky",
-    "creators": [],
+    "creators": ["RengySpiky"],
     "verifier": "trampis",
     "verification": "https://youtu.be/KtUuGsqGSB8",
-    "percentToQualify": "100",
+    "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Drkxx",
+            "link": "https://medal.tv/games/geometry-dash/clips/lzdKIaTUSyOnJJqgZ?invite=cr-MSxLcG4sMzQ3OTk0OTI0&v=68
+",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
