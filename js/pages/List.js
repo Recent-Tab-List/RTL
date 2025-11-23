@@ -118,6 +118,7 @@ export default {
                     <p>
                     <h3>Submission Requirements</h3>
                     <p>
+                    </p>
                         Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
                     </p>
                     <p>
